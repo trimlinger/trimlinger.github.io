@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Canary in the coal mine: finding early warning signs for drug shortages"
+date:       2022-02-01 12:00:00
+author:     "Matt Christian"
+header-img: "img/cover.jpeg"
+---
+Managing risk for rare events.
+<span class="label label-danger">DRAFT</span>
+
+<!--more-->
+
+## Predicting rare events
+
+asdad

@@ -1,0 +1,9 @@
+var sets = [
+         {"sets": [0], "label": "NADAC", "size": 11803+58+2693+140},
+         {"sets": [1], "label": "Part B", "size": 3200+58+444+140},
+         {"sets": [2], "label": "Part D", "size": 2945+58+444+2693},
+         {"sets": [0, 1], "size": 140+58},
+         {"sets": [0, 2], "size": 2693+58},
+         {"sets": [1, 2], "size": 444+58},
+         {"sets": [0, 1, 2], "size": 58},
+];

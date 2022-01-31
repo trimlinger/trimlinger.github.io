@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+        <h1   
+            style="color:{{site.title-fontcolor}};opacity:1;"
+        >{% if page.title %}{{ page.title }}{% else %}{{ site.title }} {% endif %}</h1>
+        {% if page.description %}
+        <hr style="opacity:1;" class="small">
+        {% if page.title== 'About' %}
+            <div>
+            <div class="col-lg-8 col-lg-offset-3 col-md-8 col-md-offset-2" style="float:none">
+            <span class="subheading">{{ page.description }}</span>
+            </div>
+            </div>
+        {% else %}
+            <span class="subheading" >{{ page.description }}</span>
+        {% endif %}
+        <ul class="social list-inline text-center">
+            {% if site.twitter_username %}
+            <li>
+                <a href="https://twitter.com/{{ site.twitter_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-twitter fa-stack-1x"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.facebook_username %}
+            <li>
+                <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-facebook fa-stack-1x"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.github_username %}
+            <li>
+                <a href="https://github.com/{{ site.github_username }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-github fa-stack-1x"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.linkedin %}
+            <li>
+                <a href="{{ site.linkedin }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-linkedin fa-stack-1x"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+            {% if site.google_plus %}
+            <li>
+                <a href="{{ site.google_plus }}">
+                    <span class="fa-stack fa-lg">
+                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                        <i class="fa fa-google-plus fa-stack-1x"></i>
+                    </span>
+                </a>
+            </li>
+            {% endif %}
+        </ul>
+        {% endif %}
+    </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-9 col-lg-offset-2 col-md-10 col-md-offset-1">
+			{{ content }}
+		</div>
+	</div>
+</div>
+
+<hr>
