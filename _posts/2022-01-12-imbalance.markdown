@@ -2,7 +2,7 @@
 layout:     post
 title:      "Managing risk within imbalanced classes"
 date:       2022-01-12 12:00:00
-author:     "Matt Christian"
+author:     "Thomas Rimlinger"
 header-img: "img/cover.jpeg"
 ---
 Managing risk for rare events.
