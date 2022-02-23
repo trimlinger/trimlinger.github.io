@@ -2,7 +2,7 @@
 layout:     post
 title:      "COVID's Impact on FDA Inspections"
 date:       2022-01-13 12:00:00
-author:     "Matt Christian"
+author:     "Thomas"
 header-img: "img/cover.jpeg"
 ---
 Due to COVID-19, the FDA conducted significantly fewer site inspections in 2020 and 2021.

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Medicare Part D Markup"
 date:       2022-01-13 12:00:00
-author:     "Matt Christian"
+author:     "Thomas"
 header-img: "img/cover.jpeg"
 ---
 How effectively does the US Government negotiate drug costs? It depends on the drug.

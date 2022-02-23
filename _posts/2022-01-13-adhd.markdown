@@ -2,7 +2,7 @@
 layout:     post
 title:      "ADHD Medication Shortages"
 date:       2022-01-13 12:00:00
-author:     "Matt Christian, Noah"
+author:     "Thomas, Noah"
 header-img: "img/adhd.jpeg"
 ---
 How can USP's Medicine Supply Map (MSM) Help ADHD Medication Shortages?
