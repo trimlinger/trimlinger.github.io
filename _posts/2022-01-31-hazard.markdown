@@ -2,7 +2,7 @@
 layout:     post
 title:      "The moral hazard of preventing drug shortages"
 date:       2022-01-31 12:00:00
-author:     "Matt Christian"
+author:     "Thomas"
 header-img: "img/cover.jpeg"
 ---
 GPOs, hospital systems, and manufacturers desire to control inventory carrying costs by reducing safety stock for pharmaceuticals. Patients, who don’t directly pay inventory carrying costs, need medications at the right place at the right time. All modeling errors have a “cost”, but those costs vary by stakeholder.
