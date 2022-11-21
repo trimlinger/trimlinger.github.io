@@ -2,7 +2,7 @@
 layout:     post
 title:      "Somehting about space"
 date:       2022-02-01 12:00:00
-author:     "Matt Christian"
+author:     "Thomas"
 header-img: "img/cover.jpeg"
 ---
 Managing risk for rare events.
