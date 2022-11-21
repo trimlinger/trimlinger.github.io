@@ -2,7 +2,7 @@
 layout:     post
 title:      "Finding Predictors for Drug Shortages"
 date:       2022-01-30 12:00:00
-author:     "Matt Christian"
+author:     "Thomas Rimlinger"
 header-img: "img/cover.jpeg"
 ---
 Managing risk for rare events.
