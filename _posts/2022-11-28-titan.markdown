@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Formation of Titan"
+date:       2022-11-28 12:00:00
+author:     "Thomas"
+header-img: "img/saturn.jpeg"
+---
+Titan, Saturn's largest moon, is mysterious in more ways than one.
+<span class="label label-danger">DRAFT</span>
+
+<!--more-->
+
+## Where did Titan come from?
+
+Summarize thesis chapter and eventual paper here.
