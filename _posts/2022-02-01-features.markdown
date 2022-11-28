@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "Somehting about space"
-date:       2022-02-01 12:00:00
+title:      "A New Formation Model for the Kepler-36 planets"
+date:       2022-11-28 12:00:00
 author:     "Thomas"
-header-img: "img/cover.jpeg"
+header-img: "img/saturn.jpeg"
 ---
-Managing risk for rare events.
+The origins of the distant Kepler-36 planetary system defy traditional explanation. Where did they come from?
 <span class="label label-danger">DRAFT</span>
 
 <!--more-->
 
-## Predicting rare events
+## EXPLORING THE ORIGIN AND EVOLUTION OF THE KEPLER 36 SYSTEM
 
-asdad
+Summarize and link to paper here.
