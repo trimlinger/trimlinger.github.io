@@ -1,11 +1,11 @@
 # Site settings
 title: Thomas Rimlinger
 header-img: ./img/cover.jpeg
-email: matthew.bryan.christian@gmail.com
+email: thomas.rimlinger@icloud.com
 
-url: "http://analyticalmeanderings.github.io"
-github_username:  analyticalmeanderings
-linkedin: https://www.linkedin.com/in/matthew-christian-17577641
+url: "https://trimlinger.github.io"
+github_username:  trimlinger
+linkedin: https://www.linkedin.com/in/thomas-rimlinger-4235051b2
 
 # Build settings
 markdown: kramdown
